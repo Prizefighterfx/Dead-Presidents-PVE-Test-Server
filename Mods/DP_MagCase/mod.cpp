@@ -1,0 +1,9 @@
+name = "DP Magazine Case";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "DP Magazine Case";
+overview = "A 3x3 hard case that holds 20 magazines from any weapon or mod, a speed loader, and 20 slots of ammo.";
+author = "Dead Presidents";
+action = "";
